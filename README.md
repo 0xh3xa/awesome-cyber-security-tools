@@ -10,7 +10,6 @@ List of common tools used in security across different specialties.
   - [Dynamic Analysis](#dynamic-analysis)
   - [Reverse Engineering](#reverse-engineering)
 - [Penetration Testing](#penetration-testing)
-  - [Mobile Penetration Testing](#mobile-penetration-testing)  
 - [Contribute](#contribute)
 - [License](#license)
   
@@ -133,24 +132,51 @@ List of common tools used in security across different specialties.
 
 ### Reverse Engineering
 
+* [gdb](https://sourceware.org/gdb) - is a powerful command-line debugger available on various Unix-like operating systems, including Linux.
 * [IDA](https://hex-rays.com) - is a highly advanced and widely used disassembler and decompiler software suite.
 * [OllyDbg](https://www.ollydbg.de/download.htm) - is a popular and powerful debugger for Windows platforms, primarily used for analyzing and debugging binary executable files.
 * [ImmunityDbg](https://www.immunityinc.com/products/debugger) - is a powerful new way to write exploits, analyze malware, and reverse engineer binary files.
 * [x64dbg](https://x64dbg.com) - is an powerful debugger for Windows, specifically designed to debug 64-bit applications.
 * [WinDbg](https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger) - is a debugger that can be used to analyze crash dumps, debug live user-mode and kernel-mode code, and examine CPU registers and memory.
-* [gdb](https://sourceware.org/gdb) - is a powerful command-line debugger available on various Unix-like operating systems, including Linux.
+* [rundll32](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/rundll32) - Loads and runs 32-bit dynamic-link libraries (DLLs).
+* [Ghidra](https://ghidra-sre.org) - suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission.
+* [Binary Ninja](https://binary.ninja) - is an interactive decompiler, disassembler, debugger, and binary analysis platform built by reverse engineers, for reverse engineers.
+* [Cutter](https://github.com/rizinorg/cutter) - is a free and open-source reverse engineering platform powered by rizin.
+* [Rizin](https://github.com/rizinorg/rizin) - is portable and it can be used to analyze binaries, disassemble code, debug programs, as a forensic tool, as a scriptable command-line hexadecimal editor able to open disk files, and much more!.
+* [Hopper](https://www.hopperapp.com/index.html) - disassembler, the reverse engineering tool that lets you disassemble, decompile and debug your applications.
+
+**Java/Android**
+
+* [javap](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javap.html) - Disassembles one or more class files.
+* [javac](https://docs.oracle.com/en/java/javase/17/docs/specs/man/javac.html) - Reads source files that contain module, package and type declarations written in the Java programming language, and compiles them into class files that run on the Java Virtual Machine.
 * [Bytecode viewer](https://www.bytecodeviewer.com) - is a graphical tool used primarily for reverse engineering and analyzing Java bytecode.
+* [jadx](https://github.com/skylot/jadx) - Dex to Java decompiler.
+* [jd-gui](https://github.com/java-decompiler/jd-gui) - a standalone graphical utility that displays Java sources from CLASS files.
+* [apktool](https://apktool.org) - a tool for reverse engineering Android apk files.
+* [mobsf](https://apktool.org) - a tool for reverse engineering Android apk files.
+
+**.Net**
+
 * [Dnspy](https://github.com/dnSpy/dnSpy) - is a debugger and .NET assembly editor. You can use it to edit and debug assemblies even if you don't have any source code available.
+* [ildasm](https://learn.microsoft.com/en-us/dotnet/framework/tools/ildasm-exe-il-disassembler) - is a companion tool to the IL Assembler (Ilasm.exe). Ildasm.exe takes a portable executable (PE) file that contains intermediate language (IL) code and creates a text file suitable as input to Ilasm.exe.
+
+**Flash**
+
+* [JPEXS](https://github.com/jindrapetrik/jpexs-decompiler) - Open source Flash SWF decompiler and editor.
+
+**Obfuscators**
+
+* [ProGuard](https://github.com/Guardsquare/proguard) - is a free shrinker, optimizer, obfuscator, and preverifier for Java bytecode.
+
+**Packers**
+
+* [UPX](https://github.com/upx/upx) - a free, secure, portable, extendable, high-performance executable packer for several executable formats.
+* [PE Compact](https://bitsum.com/portfolio/pecompact) - is a Windows executable compressor.
+* [ASPack](http://aspack.com/aspack.html) -  is an advanced solution created to provide Win32 EXE file packing and to protect them against non-professional reverse engineering.
 
 ---
 
 ## Penetration Testing
-
-
-### Mobile Penetration Testing
-
-
-### Web Penetration Testing
 
 
 ## Contribute
