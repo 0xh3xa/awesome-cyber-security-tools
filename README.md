@@ -8,7 +8,7 @@ List of common tools used in security across different specialties.
 - [Malware Reversing](#malware-reversing)
   - [Static Analysis](#static-analysis)
   - [Dynamic Analysis](#dynamic-analysis)
-  - [Reverse Engineering](#reverse-engineering)
+- [Reverse Engineering](#reverse-engineering)
 - [Penetration Testing](#penetration-testing)
 - [Contribute](#contribute)
 - [License](#license)
@@ -130,7 +130,9 @@ List of common tools used in security across different specialties.
 
 * [Volatility](https://volatilityfoundation.org) -  is a powerful open-source memory forensics framework used for analyzing volatile memory (RAM) dumps from computer systems.
 
-### Reverse Engineering
+---
+
+## Reverse Engineering
 
 * [gdb](https://sourceware.org/gdb) - is a powerful command-line debugger available on various Unix-like operating systems, including Linux.
 * [IDA](https://hex-rays.com) - is a highly advanced and widely used disassembler and decompiler software suite.
