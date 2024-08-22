@@ -10,9 +10,11 @@ A curated list of common tools used in security across different specialties.
   - [Dynamic Analysis](#dynamic-analysis)
 - [Reverse Engineering](#reverse-engineering)
   - [Java Decompilers](#java-decompilers)
+  - [.NET Decompilers](#net-decompilers)
 - [Penetration Testing](#penetration-testing)
   - [Mobile Penetration Testing](#mobile-penetration-testing)
 - [Forensics](#forensics)
+- [Linux Distributions](#linux-distributions)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -107,8 +109,8 @@ A curated list of common tools used in security across different specialties.
 **APIs / DLLs**
 
 * [**API Monitor**](http://www.rohitab.com/apimonitor) - Monitors and controls API calls.
-* [**WinAPIOverride**](http://jacquelin.potier.free.fr/winapioverride32) - Advanced API monitoring software.
-* [**ListDLLs**](https://learn.microsoft.com/en-us/sysinternals/downloads/listdlls) - Lists all the DLLs loaded into processes.
+* [**WinAPIOverride**](http://jacquelin.potier.free.fr/winapioverride32/) - Monitors, intercepts, and logs API calls.
+* [**ListDLLs**](https://docs.microsoft.com/en-us/sysinternals/downloads/listdlls) - Lists all the DLLs loaded into processes.
 * [**Handle**](https://learn.microsoft.com/en-us/sysinternals/downloads/handle) - Lists open handles for system processes.
 
 ### Dynamic Analysis Tools
@@ -150,6 +152,15 @@ A curated list of common tools used in security across different specialties.
 * [**Krakatau**](https://github.com/Storyyeller/krakatau) - Python-based Java decompiler.
 * [**JBE**](https://github.com/DeWik/JBE) - Java Bytecode Editor and Decompiler.
 * [**JClassLib**](http://www.kaitai.io/jclasslib/) - Java Class File Viewer and Editor.
+
+### .NET Decompilers
+
+* [**dnSpy**](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor.
+* [**dotPeek**](https://www.jetbrains.com/decompiler) - .NET decompiler from JetBrains.
+* [**ILSpy**](https://github.com/icsharpcode/ILSpy) - Open-source .NET assembly browser and decompiler.
+* [**Reflector**](https://www.red-gate.com/products/dotnet-development/reflector) - Commercial .NET decompiler.
+* [**JustDecompile**](https://www.telerik.com/products/decompiler.aspx) - Free .NET decompiler from Telerik.
+* [**Decompiler**](https://github.com/ilspy/ilspy) - A .NET decompiler and assembly browser.
 
 ## Penetration Testing
 
@@ -193,10 +204,24 @@ A curated list of common tools used in security across different specialties.
 * [**The Sleuth Kit (TSK)**](https://www.sleuthkit.org) - A library and collection of command-line tools for digital forensics.
 * [**CAINE**](http://www.caine-live.net) - Live Linux distribution for digital forensics.
 
+## Linux Distributions
+
+* [**Kali Linux**](https://www.kali.org) - Comprehensive penetration testing distribution with numerous security tools.
+* [**Parrot Security OS**](https://www.parrotsec.org) - Security-oriented Linux distribution designed for security experts and developers.
+* [**BackBox**](https://www.backbox.org) - Ubuntu-based Linux distribution for security and analysis.
+* [**BlackArch**](https://blackarch.org) - Arch Linux-based distribution for penetration testers and security researchers.
+* [**Tails**](https://tails.boum.org) - Live operating system that you can start on almost any computer from a USB stick or a DVD.
+* [**Qubes OS**](https://www.qubes-os.org) - Privacy-focused Linux distribution that uses virtualization to isolate security-sensitive tasks.
+* [**REMnux**](https://remnux.org) - Linux toolkit for reverse engineering and analyzing malware.
+* [**DEFT Linux**](https://www.deftlinux.net) - Linux distribution specifically designed for digital forensics and penetration testing.
+* [**Caine**](https://www.caine-live.net) - Live CD Linux distribution for digital forensics.
+* [**Whonix**](https://www.whonix.org) - Privacy-focused Linux distribution that leverages Tor for anonymous communication.
+* [**Pentoo**](https://www.pentoo.ch) - Live CD and installable Linux distribution based on Gentoo optimized for penetration testing.
+
 ## Contribute
 
-Feel free to contribute to this list by submitting a pull request.
+Feel free to contribute by submitting a pull request or opening an issue to suggest improvements or additional tools.
 
 ## License
 
-This list is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
+This list is licensed under the [MIT License](LICENSE).
