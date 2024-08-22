@@ -9,7 +9,9 @@ A curated list of common tools used in security across different specialties.
   - [Static Analysis](#static-analysis)
   - [Dynamic Analysis](#dynamic-analysis)
 - [Reverse Engineering](#reverse-engineering)
+  - [Java Decompilers](#java-decompilers)
 - [Penetration Testing](#penetration-testing)
+  - [Mobile Penetration Testing](#mobile-penetration-testing)
 - [Forensics](#forensics)
 - [Contribute](#contribute)
 - [License](#license)
@@ -106,8 +108,8 @@ A curated list of common tools used in security across different specialties.
 
 * [**API Monitor**](http://www.rohitab.com/apimonitor) - Monitors and controls API calls.
 * [**WinAPIOverride**](http://jacquelin.potier.free.fr/winapioverride32) - Advanced API monitoring software.
-* [**ListDLLs**](https://learn.microsoft.com/en-us/sysinternals/downloads/listdlls) - Reports DLLs loaded into processes.
-* [**handle**](https://learn.microsoft.com/en-us/sysinternals/downloads/handle) - Lists open handles for system processes.
+* [**ListDLLs**](https://learn.microsoft.com/en-us/sysinternals/downloads/listdlls) - Lists all the DLLs loaded into processes.
+* [**Handle**](https://learn.microsoft.com/en-us/sysinternals/downloads/handle) - Lists open handles for system processes.
 
 ### Dynamic Analysis Tools
 
@@ -138,6 +140,17 @@ A curated list of common tools used in security across different specialties.
 * [**Zynamics BinNavi**](https://www.zynamics.com/binNavi) - Reverse engineering tool for binaries.
 * [**JEB Decompiler**](https://www.pnfsoftware.com/jeb) - Interactive disassembler and decompiler for Android and other platforms.
 
+### Java Decompilers
+
+* [**JD-GUI**](http://java-decompiler.github.io) - Decompiler for Java bytecode.
+* [**CFR**](http://www.benf.org/other/cfr) - Another Java decompiler.
+* [**Procyon**](https://bitbucket.org/mstrobel/procyon) - Java decompiler for modern Java features.
+* [**JADX**](https://github.com/skylot/jadx) - Dex to Java decompiler.
+* [**FernFlower**](https://github.com/fesh0r/fernflower) - IntelliJ's Java decompiler.
+* [**Krakatau**](https://github.com/Storyyeller/krakatau) - Python-based Java decompiler.
+* [**JBE**](https://github.com/DeWik/JBE) - Java Bytecode Editor and Decompiler.
+* [**JClassLib**](http://www.kaitai.io/jclasslib/) - Java Class File Viewer and Editor.
+
 ## Penetration Testing
 
 * [**Metasploit**](https://www.metasploit.com) - Penetration testing framework.
@@ -153,6 +166,20 @@ A curated list of common tools used in security across different specialties.
 * [**Sublist3r**](https://github.com/aboul3la/Sublist3r) - Fast subdomain enumeration tool.
 * [**Recon-ng**](https://github.com/lanmaster53/recon-ng) - Full-featured Web Reconnaissance Framework.
 * [**Malleable C2**](https://github.com/EmpireProject/Empire) - Framework for crafting custom C2 profiles for command and control.
+
+### Mobile Penetration Testing
+
+* [**MobSF**](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework for static and dynamic analysis.
+* [**Drozer**](https://github.com/mwrlabs/drozer) - Android security assessment framework.
+* [**Frida**](https://frida.re) - Dynamic instrumentation toolkit for developers, reverse engineers, and security researchers.
+* [**AppMon**](https://github.com/appmon) - Monitor and analyze mobile apps on Android and iOS.
+* [**APKTool**](https://github.com/iBotPeaches/Apktool) - Decompiles and rebuilds APK files.
+* [**Xposed Framework**](https://repo.xposed.info/module/de.robv.android.xposed.installer) - Framework for modules that can change the behavior of the APK.
+* [**AndroGuard**](https://github.com/androguard/androguard) - Android reverse engineering tool.
+* [**Jadx**](https://github.com/skylot/jadx) - Dex to Java decompiler for Android.
+* [**Burp Suite Mobile Assistant**](https://portswigger.net/burp/documentation/desktop/tools/mobile-assistant) - Integrated mobile assistant for Burp Suite.
+* [**Magisk**](https://github.com/topjohnwu/Magisk) - Rooting solution with systemless root for Android.
+* [**AppUse**](https://appuse.org) - Open-source Android security testing platform.
 
 ## Forensics
 
