@@ -2,9 +2,7 @@
   <a href="https://github.com/0xh3xa/awesome-cyber-security-tools">
     <img
       src="./assets/banner.png"
-      alt="Awesome Cyber Security Tools – Hacker-themed banner"
-      style="border:2px solid #6b7280; border-radius:12px; max-width:100%;"
-    />
+      alt="Awesome Cyber Security Tools banner"/>
   </a>
 </p>
 
