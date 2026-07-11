@@ -157,6 +157,7 @@
 - [**CIRCL**](https://www.circl.lu/services) – Computer Incident Response Center Luxembourg; provides threat intelligence feeds and malware analysis.  
 - [**Hybrid Analysis**](https://www.hybrid-analysis.com) – Malware analysis service with detailed threat intelligence reports.  
 - [**Abuse.ch**](https://abuse.ch) – Provides threat feeds such as ransomware and malware campaign trackers.  
+- [**autosecure**](https://github.com/vincentkoc/autosecure) - Threat-feed IP block automation for Linux and macOS firewalls.
 
 ---
 
@@ -199,6 +200,7 @@
 - [**Dradis**](https://dradisframework.com) - Open-source collaboration and reporting tool for information security teams.
 - [**Sublist3r**](https://github.com/aboul3la/Sublist3r) - Fast subdomain enumeration tool.
 - [**Recon-ng**](https://github.com/lanmaster53/recon-ng) - Full-featured Web Reconnaissance Framework.
+- [**Darkmoon**](https://github.com/ASCIT31/Dark-Moon) - Open-source (GPL-3.0) autonomous AI penetration-testing platform and MCP host that orchestrates 80+ tools via per-technology offensive sub-agents, with Active Directory and Kubernetes coverage and a local 14B LLM.
 - [**Empire**](https://github.com/EmpireProject/Empire) - PowerShell and Python post-exploitation agent.
 
 ### Information Gathering
