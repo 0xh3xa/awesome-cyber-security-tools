@@ -2,9 +2,7 @@
   <a href="https://github.com/0xh3xa/awesome-cyber-security-tools">
     <img
       src="./assets/banner.png"
-      alt="Awesome Cyber Security Tools"
-      style="border:2px solid #6b7280; border-radius:12px; max-width:100%;"
-    />
+      alt="Awesome Cyber Security Tools banner"/>
   </a>
 </p>
 
@@ -202,6 +200,7 @@
 - [**Dradis**](https://dradisframework.com) - Open-source collaboration and reporting tool for information security teams.
 - [**Sublist3r**](https://github.com/aboul3la/Sublist3r) - Fast subdomain enumeration tool.
 - [**Recon-ng**](https://github.com/lanmaster53/recon-ng) - Full-featured Web Reconnaissance Framework.
+- [**Darkmoon**](https://github.com/ASCIT31/Dark-Moon) - Open-source (GPL-3.0) autonomous AI penetration-testing platform and MCP host that orchestrates 80+ tools via per-technology offensive sub-agents, with Active Directory and Kubernetes coverage and a local 14B LLM.
 - [**Empire**](https://github.com/EmpireProject/Empire) - PowerShell and Python post-exploitation agent.
 
 ### Information Gathering
