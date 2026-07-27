@@ -62,6 +62,7 @@
 - [**IgorWare Hasher**](https://www.igorware.com/hasher) - Free SHA-1, MD5, and CRC32 hash generator for Windows.
 - [**ComputeHash**](https://www.subisoft.net/ComputeHash.aspx) - Calculates MD5, SHA1, SHA256, SHA384, and SHA512 hashes.
 - [**GET-FileHash**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/get-filehash?view=powershell-7.4) - Computes hash value for a file using a specified hash algorithm (Microsoft PowerShell module).
+- [**Nutilz File Hash Checker**](https://nutilz.com/file-hash-checker) - Free browser-based tool to compute and verify SHA-1, SHA-256, SHA-384, and SHA-512 file hashes with no upload, using the WebCrypto API.
 - [**ssdeep**](https://ssdeep-project.github.io/ssdeep/index.html) - Computes Context Triggered Piecewise Hashes (CTPH) for fuzzy matching.
 - [**impfuzzy**](https://github.com/JPCERTCC/impfuzzy) - Calculates Fuzzy Hash from import API of PE files.
 - [**pehash**](https://github.com/knowmalware/pehash) - Compilation of peHash implementations.
