@@ -148,6 +148,7 @@
 
 ### Threat Intelligence
 
+- [**CTI Skills for Claude Code**](https://liberty91.com/cti-skills) A free, actively maintained collection of free Claude Code Skills for CTI Analysts, developed by the team from Liberty91. Dozens of Skills to use in Claude Code and other similar frameworks for Cyber Threat Intelligence. They cover analytical tradecraft, integration with often-used tools and platforms, knowledge skills on particular Intelligence Requirements that can update themselves, and production skills that can turn data into reports, IOC-feeds, STIX-bundles, detection rules, et cetera. 
 - [**VirusTotal**](https://www.virustotal.com) – Free service for scanning files and URLs to detect malware and gather threat intelligence.
 - [**MISP**](https://www.misp-project.org) – Open-source threat intelligence platform for sharing, storing, and correlating indicators of compromise (IOCs).  
 - [**OpenCTI**](https://www.opencti.io) – Open-source platform for managing cyber threat intelligence knowledge and observables.  
