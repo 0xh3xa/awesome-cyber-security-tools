@@ -228,6 +228,7 @@
 ### Web Penetration Testing
 
 - [**Burp Suite**](https://portswigger.net/burp) - Integrated platform for web application security testing.
+- [**IsMyCodeSafe**](https://ismycodesafe.com) - Free external website scanner covering TLS, security headers, exposed files and known CVEs.
 - [**OWASP ZAP**](https://www.zaproxy.org) - Open-source web application security scanner.
 
 
