@@ -156,6 +156,7 @@
 - [**ThreatConnect**](https://threatconnect.com) – Threat intelligence platform combining data aggregation, analytics, and response workflows.  
 - [**CIRCL**](https://www.circl.lu/services) – Computer Incident Response Center Luxembourg; provides threat intelligence feeds and malware analysis.  
 - [**Hybrid Analysis**](https://www.hybrid-analysis.com) – Malware analysis service with detailed threat intelligence reports.  
+- [**ICHI – Internet Cyber Health Index**](https://ichi.global) – Free, source-transparent daily barometer of global Internet cyber health; aggregates telemetry from 100+ public feeds into a single index with direct evidence links.
 - [**Abuse.ch**](https://abuse.ch) – Provides threat feeds such as ransomware and malware campaign trackers.  
 - [**autosecure**](https://github.com/vincentkoc/autosecure) - Threat-feed IP block automation for Linux and macOS firewalls.
 
