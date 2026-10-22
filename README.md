@@ -208,6 +208,7 @@
 #### Passive Information Gathering
 
 - [**BuiltWith**](https://builtwith.com) – Identify technologies, frameworks, and services used by websites.  
+- [**cl0q**](https://cl0q.com) – Open search engine for domain research and OSINT — ~46.8M domains scanned, 33M+ pages indexed, free web search + API.
 - [**Wappalyzer**](https://www.wappalyzer.com) – Detect web technologies including CMS, frameworks, analytics, and servers.  
 - [**WhatWeb**](https://github.com/urbanadventurer/WhatWeb) – Website fingerprinting tool to identify web technologies.  
 - [**HTTrack**](https://www.httrack.com) – Website mirroring tool for offline analysis.  
