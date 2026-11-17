@@ -158,6 +158,7 @@
 - [**Hybrid Analysis**](https://www.hybrid-analysis.com) – Malware analysis service with detailed threat intelligence reports.  
 - [**Abuse.ch**](https://abuse.ch) – Provides threat feeds such as ransomware and malware campaign trackers.  
 - [**autosecure**](https://github.com/vincentkoc/autosecure) - Threat-feed IP block automation for Linux and macOS firewalls.
+- [**Whatoblock**](https://whatoblock.com/) – Threat intelligence from a global honeypot network: IPs seen scanning the internet, botnet attack chains, proxies and Tor exit nodes, with hourly blocklists for firewalls.
 
 ---
 
